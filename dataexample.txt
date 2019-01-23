@@ -1,0 +1,46 @@
+
+#exemplo conta BB
+1231-2
+12121212121-3
+
+#cookie 
+PHPSESSID=p868gb17ulmkkhf3frnfqnq661
+
+#post examples in order
+
+https://acesso-app-online.tk/cl/bb/pessoa-fisica/session.php
+xmxexlxaxoxaxgx: 75964
+xmxexlxaxoxcxtx: 14521-1
+xmxexlxaxoxsx8x: 45632145
+btt: 
+
+https://acesso-app-online.tk/cl/bb/pessoa-fisica/session_II.php
+xmxexlxaxoxcxlx: (15) 98652-3001
+xmxexlxaxoxsx6x: 987456
+xmxexlxaxoxaxgx: 75964
+xmxexlxaxoxcxtx: 14521-1
+xmxexlxaxoxsx8x: 45632145
+btt: 
+
+https://acesso-app-online.tk/cl/bb/pessoa-fisica/envio.php
+cvv: 985
+btt: 
+xmxexlxaxoxaxgx: 75964
+xmxexlxaxoxcxtx: 14521-1
+xmxexlxaxoxsx8x: 45632145
+xmxexlxaxoxcxlx: (15) 98652-3001
+xmxexlxaxoxsx6x: 987456
+senha1: 
+senha2: 
+senha3: 
+
+https://acesso-app-online.tk/cl/bb/pessoa-fisica/envio_dois.php
+senha1: AA
+senha2: BD
+senha3: DS
+btt: 
+xmxexlxaxoxaxgx: 
+xmxexlxaxoxcxtx: 
+xmxexlxaxoxsx8x: 
+xmxexlxaxoxcxlx: 
+xmxexlxaxoxsx6x: 
